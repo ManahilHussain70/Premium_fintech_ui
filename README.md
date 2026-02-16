@@ -1,67 +1,48 @@
-💳 Digital Wallet UI – Flutter
+# 💳 Digital Wallet UI – Flutter
 
-A modern Digital Wallet Dashboard UI built with Flutter, featuring glassmorphism, gradient effects, and a clean fintech-style interface.
+A modern Digital Wallet Dashboard UI built with Flutter, featuring glassmorphism, gradient effects, and a clean fintech design.
 
-✨ Features
-
+# ✨ Features
 💳 Modern Fintech Dashboard Design
-
 🪞 Glassmorphism Action Card
-
 🌈 Gradient Header & Promo Banner
-
 💰 Portfolio Balance Section
-
 ⚡ Quick Services Grid
-
 🎁 Cashback Promotion Card
-
 🟢 Neon Floating Action Button
-
 📱 Custom Bottom Navigation Bar
-
 📐 Clean & Responsive Layout
-
 🎨 UI Highlights
-Color Palette
 
+# Color Palette
 Primary: Midnight Blue
-
 Accent: Electric Indigo
-
 Secondary: Soft Violet
 
-Design Concepts
-
+# Design Concepts
 Glassmorphism
-
 Gradient UI
-
 Modern Fintech Layout
-
 Soft Shadows & Blur Effects
 
-🛠️ Built With
-
+# 🛠️ Built With
 Flutter
-
 Dart
-
 Material UI
+BackdropFilter (for glass effect)
+Custom widgets
 
-BackdropFilter (Glass Effect)
-
-Custom Widgets
-
-📂 Project Structure
+# 📂 Project Structure
 lib/
  └── dashboard_page.dart
 
-📱 Screens Included
+# 📱 Screens
 Dashboard Screen
-<img src="fintech_ui.jpeg" width="500" alt="Dashboard Screenshot">
+<img src="fintech_ui.jpeg" width="300" alt="Dashboard Screenshot">
 
-🚀 Getting Started
+
+
+# 🚀 Getting Started
 
 To run this project locally:
 
