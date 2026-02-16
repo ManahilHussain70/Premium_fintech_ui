@@ -46,9 +46,6 @@ Dashboard Screen
 
 To run this project locally:
 
-# Clone the repository
-git clone https://github.com/your-username/digital-wallet-ui.git
-
 # Navigate to project folder
 cd digital-wallet-ui
 
