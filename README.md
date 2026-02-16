@@ -58,7 +58,7 @@ Custom widgets
 # 📂 Project Structure
 
 lib/
- └── dashboard_page.dart
+ └── wallet.dart
 
 # 📱 Screens
 
