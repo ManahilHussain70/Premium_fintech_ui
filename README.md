@@ -1,6 +1,6 @@
 # 💳 Digital Wallet UI – Flutter
 
-A modern Digital Wallet Dashboard UI built with Flutter, featuring glassmorphism, gradient effects, and a clean fintech design.
+A modern Digital Wallet Dashboard UI built with Flutter, featuring glassmorphism, gradient effects, and a clean fintech wallet design.
 
 # ✨ Features
 💳 Modern Fintech Dashboard Design
