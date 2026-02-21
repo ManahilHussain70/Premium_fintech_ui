@@ -6,7 +6,7 @@ A modern Digital Wallet Dashboard UI built with Flutter, featuring glassmorphism
 💳 Modern Fintech Dashboard Design
 
 
-🪞 Glassmorphism Action Card
+🪞 Glassmorphism Action card
 
 🌈 Gradient Header & Promo Banner
 
